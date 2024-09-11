@@ -63,7 +63,5 @@
 
 You are my![Visitor Count](https://profile-counter.glitch.me/QuincyQAQ/count.svg) visitor，thank you😘！
 
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed)
 
