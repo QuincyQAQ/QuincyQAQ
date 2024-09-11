@@ -50,5 +50,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 ![Visitor Count](https://profile-counter.glitch.me/QuincyQAQ/count.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuincyQAQ&layout=compact&theme=tokyonight)
 
