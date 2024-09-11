@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://github.com/QuincyQAQ"><img src="https://img.shields.io/badge/GitHub-QuincyQAQ-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-2528006107-green?logo=tencentqq" />
-<a href="https://www.linkedin.com/in/quincy-lee-002380323/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" /></a>    
+<a href="https://www.linkedin.com/in/quincy-lee-002380323/"><img src="https://img.shields.io/badge/-@QuincyLee-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" /></a>    
 </p>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
