@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/QQ-2528006107-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter --> 
 <img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
-</a> <a href="https://www.linkedin.com/in/quincy-lee-002380323/"><img src="https://img.shields.io/badge/-@Quincy Lee?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
+</a> <a href="https://www.linkedin.com/in/quincy-lee-002380323/"><img src="https://img.shields.io/badge/-@QuincyLee?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
 </p>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
