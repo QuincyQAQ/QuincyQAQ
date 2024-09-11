@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/QQ-2528006107-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter --> 
 <img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
-</p>
 </a> <a href="https://www.linkedin.com/in/quincy-lee-002380323/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
+</p>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p>🍌 Don't forget to get some Potassium 🍌</p>
