@@ -16,8 +16,8 @@
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Medical Image Protection Method Based on One Dimensional Chaotic Mapping Verified by Iris Features(Invention patent) — June 19, 2023</a>
-    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Medical Image Protection Method Based on One Dimensional Chaotic Mapping Verified by Iris Features(Invention patent) — June 19, 2023</a>
+    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Medical Image Protection Method Based on One Dimensional Chaotic Mapping Verified by Iris Features(Invention patent) — June 19, 2024</a>
+    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Method for Protecting Remote Sensing Images of Unmanned Aerial Vehicles Based on Two Dimensional Chaotic Mapping Verified by Palmprint Verification(Invention patent) — August 20, 2024</a>
    </li>
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
