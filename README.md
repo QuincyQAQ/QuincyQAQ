@@ -59,9 +59,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
-You are my![Visitor Count](https://profile-counter.glitch.me/QuincyQAQ/count.svg) visitor，thank you😘！
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuincyQAQ&layout=compact&theme=tokyonight)
+
+You are my![Visitor Count](https://profile-counter.glitch.me/QuincyQAQ/count.svg) visitor，thank you😘！
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
