@@ -39,7 +39,9 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="node">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuincyQAQ&layout=compact&theme=tokyonight)
+
+
 You are my![Visitor Count](https://profile-counter.glitch.me/QuincyQAQ/count.svg) visitor，thank you😘！
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuincyQAQ&layout=compact&theme=tokyonight)
 
