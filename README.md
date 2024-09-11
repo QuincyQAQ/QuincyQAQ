@@ -1,5 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Quanjun Li</a></h2>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom to my Github profile page！)](https://git.io/typing-svg)
+
 <p>I'm currently a college student at <strong><a href="https://www.snapchat.com/">Guangdong university of technology</a></strong>. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
 </a> <a href="https://www.linkedin.com/in/quincy-lee-002380323/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
